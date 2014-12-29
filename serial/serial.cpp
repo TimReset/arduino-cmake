@@ -6,6 +6,9 @@
     #include "WProgram.h"
 #endif
 
+//Пример подключения Arduino Library
+#include "LiquidCrystal.h"
+
 void setup() {
     Serial.begin(9600);
 }

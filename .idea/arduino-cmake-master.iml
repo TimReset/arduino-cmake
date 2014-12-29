@@ -61,11 +61,50 @@
     <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_shift.c">
       <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_shift.c" isTestSource="false" />
     </content>
+    <content url="file://C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/LiquidCrystal.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/LiquidCrystal.cpp" isTestSource="false" />
+    </content>
     <content url="file://C:/Program Files (x86)/Arduino/libraries/Wire/Wire.cpp">
       <sourceFolder url="file://C:/Program Files (x86)/Arduino/libraries/Wire/Wire.cpp" isTestSource="false" />
     </content>
     <content url="file://C:/Program Files (x86)/Arduino/libraries/Wire/utility/twi.c">
       <sourceFolder url="file://C:/Program Files (x86)/Arduino/libraries/Wire/utility/twi.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Debug/example/blink_bundled_Blink.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Debug/example/blink_bundled_Blink.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Debug/example/blink_original_Blink.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Debug/example/blink_original_Blink.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Debug/example/wire_example_master_writer.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Debug/example/wire_example_master_writer.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/MinSizeRel/example/blink_bundled_Blink.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/MinSizeRel/example/blink_bundled_Blink.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/MinSizeRel/example/blink_original_Blink.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/MinSizeRel/example/blink_original_Blink.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/MinSizeRel/example/wire_example_master_writer.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/MinSizeRel/example/wire_example_master_writer.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/RelWithDebInfo/example/blink_bundled_Blink.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/RelWithDebInfo/example/blink_bundled_Blink.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/RelWithDebInfo/example/blink_original_Blink.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/RelWithDebInfo/example/blink_original_Blink.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/RelWithDebInfo/example/wire_example_master_writer.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/RelWithDebInfo/example/wire_example_master_writer.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Release/example/blink_bundled_Blink.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Release/example/blink_bundled_Blink.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Release/example/blink_original_Blink.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Release/example/blink_original_Blink.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Release/example/wire_example_master_writer.cpp">
+      <sourceFolder url="file://$USER_HOME$/.clion10/system/cmake/generated/7c53153d/7c53153d/Release/example/wire_example_master_writer.cpp" isTestSource="false" />
     </content>
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />

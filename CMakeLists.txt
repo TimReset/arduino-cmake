@@ -17,5 +17,7 @@ project(ArduinoExample C CXX)
 print_board_list()
 print_programmer_list()
 
+link_directories(${ARDUINO_SDK}/libraries)
+
 add_subdirectory(example)   #add the example directory into build
-add_subdirectory(serial)   #add the example directory into build
+add_subdirectory(serial)
