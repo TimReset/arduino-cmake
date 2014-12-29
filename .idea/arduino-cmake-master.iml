@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/CDC.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/CDC.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/HID.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/HID.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/HardwareSerial.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/HardwareSerial.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/IPAddress.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/IPAddress.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/Print.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/Print.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/Stream.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/Stream.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/Tone.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/Tone.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/USBCore.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/USBCore.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/WInterrupts.c">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/WInterrupts.c" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/WMath.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/WMath.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/WString.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/WString.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/avr-libc/malloc.c">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/avr-libc/malloc.c" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/avr-libc/realloc.c">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/avr-libc/realloc.c" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/main.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/main.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/new.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/new.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring.c">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring.c" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_analog.c">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_analog.c" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_digital.c">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_digital.c" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_pulse.c">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_pulse.c" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_shift.c">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/hardware/arduino/cores/arduino/wiring_shift.c" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/libraries/Wire/Wire.cpp">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/libraries/Wire/Wire.cpp" isTestSource="false" />
+    </content>
+    <content url="file://C:/Program Files (x86)/Arduino/libraries/Wire/utility/twi.c">
+      <sourceFolder url="file://C:/Program Files (x86)/Arduino/libraries/Wire/utility/twi.c" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
